@@ -1,5 +1,9 @@
 # Blurry Loading
 
+## Live Demo
+
+Check out the live demo of the project [here](https://your-demo-link.com).
+
 ![Blurry Loading Gif](https://cdn.dribbble.com/users/2973561/screenshots/5757826/media/c5083407af44c0753602fa3e7b025ba7.gif)
 
 This project demonstrates a simple and visually appealing loading screen effect where an image background gradually comes into focus as the loading percentage increases. The text displaying the loading percentage fades out as the background image sharpens, creating a smooth transition effect.
