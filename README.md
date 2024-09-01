@@ -2,7 +2,7 @@
 
 ## Live Demo
 
-Check out the live demo of the project [here](https://your-demo-link.com).
+Check out the live demo of the project [here](https://9elmaz9.github.io/Loading/).
 
 ![Blurry Loading Gif](https://cdn.dribbble.com/users/2973561/screenshots/5757826/media/c5083407af44c0753602fa3e7b025ba7.gif)
 
